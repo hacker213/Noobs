@@ -31,19 +31,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">Cheat Sheets</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
-    <br />
-    <a href="https://github.com/hacker213/Noobs"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/hacker213/Noobs">View Demo</a>
-    ·
-    <a href="https://github.com/hacker213/Noobs/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/hacker213/Noobs/issues">Request Feature</a>
+    Assorted Cheat Sheet Ref.
   </p>
 </p>
 
