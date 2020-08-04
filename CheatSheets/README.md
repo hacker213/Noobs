@@ -36,14 +36,6 @@
   </p>
 </p>
 
-
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-
-
-
 <!-- LICENSE -->
 ## License
 
@@ -54,18 +46,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/hacker_213
+Hacker213 - [@twitter_handle](https://twitter.com/hacker_213
 
 Project Link: [https://github.com/hacker213/Noobs](https://github.com/hacker213/Noobs)
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
 
 
 
