@@ -29,12 +29,25 @@
 <p align="center">
   
 
-  <h3 align="center">Cheat Sheets</h3>
+  <h3 align="center">Websites</h3>
 
   <p align="center">
-    Assorted Cheat Sheet Ref.
+    Websites
   </p>
 </p>
+
+<!-- Websites -->
+## Websites
+Kitploit              Offensive Tools Repo                            https://www.kitploit.com/
+VulnHub               Downloadable CTFs                               https://www.vulnhub.com
+PacketStorm           One of the Original Offensive News Sites        https://packetstormsecurity.com/
+NullByte              Offensive Security Resource Site                https://null-byte.wonderhowto.com/
+GTFOBins              Exploit One liners                              https://gtfobins.github.io/#
+
+
+
+
+
 
 <!-- LICENSE -->
 ## License
